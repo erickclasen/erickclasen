@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 - Trading algorithms, improvements and extensions that work with the Coinbase Pro API.
 - Machine learning applied to trading/investing systems.
-- Looking to share/publish code that I have, slowly dripping it out right now when it has passes testing.
+- Looking to share/publish code that I have, slowly dripping some out right now when it passes testing.
 - 📫 How to reach me ...
 For initial contact, I am on Facebook and Telegram under my own name.
 
