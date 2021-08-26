@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - Trading/Investing Systems, Quantitative Finance and applying Mathematics and Coding to those topics.
 - Algorithmic Trading. 
-- Machine learning in general, Image Processing/Modification and Genetic Algorithms in particular.
+- Machine Learning in general, Image Processing/Modification and Genetic Algorithms in particular.
 - Cellular Automata.
 - Automated Weather Data Collection.
 - Control System Engineering using Embedded Controllers.
